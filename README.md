@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Black Pearl</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🌱 Dev' Web Fullstack | HTML5 / CSS3 / JavaScript / jQuery / React / React Native / Redux / Node.JS / Express / MySQL / AJAX / POO / MVC
+- 🌐 Dev' Web Fullstack | HTML5 / CSS3 / JavaScript / jQuery / React / React Native / Redux / Node.JS / Express / MySQL / AJAX / POO / MVC
+
+- 🎮 Game Modder | LUA / Java / C++ Nodal
 
 <p align="left">
 </p>
