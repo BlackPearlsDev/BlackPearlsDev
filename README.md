@@ -86,12 +86,12 @@
     </td>
     <td align="center" width="60">
       <a href="https://www.navicat.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.favpng.com/24/16/7/navicat-database-mongodb-mariadb-mysql-png-favpng-mXjXUd7R7gMfdRM5JFdYzaTM1.jpg" alt="navicat" width="40" height="40"/>
+        <img src="https://images.dwncdn.net/images/t_app-icon-l/p/5c141e22-6827-49f6-b640-f77c1d4e7d86/354745944/10254_4-10921999-imgingest-1093384412381266439.png" alt="navicat" width="40" height="40"/>
       </a>
     </td>
     <td align="center" width="60">
       <a href="https://www.wampserver.com/" target="_blank" rel="noreferrer">
-        <img src="https://e7.pngegg.com/pngimages/97/83/png-clipart-wampserver-web-server-computer-servers-xampp-apache-server-purple-text.png" alt="wamp" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt="wamp" width="40" height="40"/>
       </a>
     </td>
     <td align="center" width="60">
