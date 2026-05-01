@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Black Pearl</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 💻 Dev' Web Fullstack | HTML5 / CSS3 / JavaScript / jQuery / React / React Native / Redux / Node.JS / Express / MySQL / AJAX / POO / MVC
+- 💻 Dev' Web Fullstack | React / Node / JS
 - 🎮 Game Modder | LUA / Java / C++ Nodal
+- 🎮 Game Saver | Reconstructing and Preserving Lost Games
+
+Saved games:
+Dofus since 2012 (completed)
+Avatar Fight Online since 2026 (still in progress)
 
 - 🌐 https://blackpearlsdev.github.io/pearl.Web/
 
