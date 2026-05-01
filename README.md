@@ -3,7 +3,7 @@
 
 - 💻 Dev' Web Fullstack | React / Node / JS
 - 🎮 Game Modder | LUA / Java / C++ Nodal
-- 🎮 Game Saver | Reconstructing and Preserving Lost Games
+- 🎮 Game Revivalist | Reconstructing and Preserving Lost Games
 
 <h3 align="left">Saved games:</h3>
 
