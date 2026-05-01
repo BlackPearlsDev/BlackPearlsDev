@@ -28,7 +28,7 @@
 
 - 🌐 https://blackpearlsdev.github.io/pearl.Web/
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
 <table>
   <tr>
@@ -65,6 +65,33 @@
     <td align="center" width="60">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">Tools:</h3>
+
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.navicat.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.navicat.com/images/02.Product_00_AllProducts_Premium16.png" alt="navicat" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.wampserver.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.wampserver.com/wp-content/uploads/2019/05/WampServer-logo.png" alt="wamp" width="40" height="40"/>
       </a>
     </td>
     <td align="center" width="60">
