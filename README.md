@@ -24,6 +24,14 @@
       Avatar Fight Online since 2026 <strong>(still in progress)</strong>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://image.tmdb.org/t/p/original/52omgg23yH2ScJwTIGtBXwKx4dK.png" alt="Tara Duncan" width="28" height="28"/>
+    </td>
+    <td>
+      Tara Duncan <strong>(Not started yet; a lot of data is missing)</strong>
+    </td>
+  </tr>
 </table>
 
 - 🌐 https://blackpearlsdev.github.io/pearl.Web/
@@ -48,6 +56,11 @@
       </a>
     </td>
     <td align="center" width="60">
+      <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noreferrer">
+        <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/actionscript-1.png" alt="flash" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
@@ -65,11 +78,6 @@
     <td align="center" width="60">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noreferrer">
-        <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/actionscript-1.png" alt="flash" width="40" height="40"/>
       </a>
     </td>
   </tr>
