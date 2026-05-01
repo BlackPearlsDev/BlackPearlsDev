@@ -67,6 +67,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       </a>
     </td>
+    <td align="center" width="60">
+      <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noreferrer">
+        <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/actionscript-1.png" alt="flash" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 
