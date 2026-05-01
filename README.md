@@ -5,9 +5,26 @@
 - 🎮 Game Modder | LUA / Java / C++ Nodal
 - 🎮 Game Saver | Reconstructing and Preserving Lost Games
 
-Saved games:
-Dofus since 2012 (completed)
-Avatar Fight Online since 2026 (still in progress)
+<h3 align="left">Saved games:</h3>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://static.ankama.com/dofus/www/game/logo-dofus.png" alt="Dofus" width="28" height="28"/>
+    </td>
+    <td>
+      Dofus since 2012 <strong>(completed)</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.utdstc.com/icon/95e/b85/95eb851fc651b9b0dd1ec3d4536dfd338b2b8aea85b87cedf2808688bd308d84:200" alt="Avatar Fight Online" width="28" height="28"/>
+    </td>
+    <td>
+      Avatar Fight Online since 2026 <strong>(still in progress)</strong>
+    </td>
+  </tr>
+</table>
 
 - 🌐 https://blackpearlsdev.github.io/pearl.Web/
 
