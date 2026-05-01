@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://static.ankama.com/dofus/www/game/logo-dofus.png" alt="Dofus" width="28" height="28"/>
+      <img src="https://jolstatic.fr/www/captures/93/4/23004.png" alt="Dofus" width="28" height="28"/>
     </td>
     <td>
       Dofus since 2012 <strong>(completed)</strong>
