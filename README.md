@@ -101,3 +101,9 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="center">
+  Not much activity visible? I'm quietly building things behind the scenes in private repositories 🤫
+</p>
