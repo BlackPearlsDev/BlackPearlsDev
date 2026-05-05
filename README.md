@@ -38,82 +38,74 @@
 
 <h3 align="left">Languages:</h3>
 
-<table>
-  <tr>
-    <td align="center" width="60">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://react.dev" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noreferrer">
-        <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/actionscript-1.png" alt="flash" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noreferrer">
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/actionscript-1.png" height="40" alt="actionscript logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  </a>
+</div>
 
 <h3 align="left">Tools:</h3>
 
-<table>
-  <tr>
-    <td align="center" width="60">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.navicat.com/" target="_blank" rel="noreferrer">
-        <img src="https://images.dwncdn.net/images/t_app-icon-l/p/5c141e22-6827-49f6-b640-f77c1d4e7d86/354745944/10254_4-10921999-imgingest-1093384412381266439.png" alt="navicat" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.wampserver.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt="wamp" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://www.navicat.com/" target="_blank" rel="noreferrer">
+    <img src="https://images.dwncdn.net/images/t_app-icon-l/p/5c141e22-6827-49f6-b640-f77c1d4e7d86/354745944/10254_4-10921999-imgingest-1093384412381266439.png" height="40" alt="navicat logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://www.wampserver.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" height="40" alt="wamp logo"/>
+  </a>
+  <img width="12"/>
+
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" height="40" alt="unreal engine logo"/>
+  </a>
+</div>
 
 <br>
 
